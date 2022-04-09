@@ -1,2 +1,2 @@
 # cka-ckad-bookmarks
-Bookmarks for the Kubernetes CKA and CKAD exam
+Bookmarks for the Certified Kubernetes Administrator (CKA) and the Certified Kubernetes Application Developer (CKAD) exam
